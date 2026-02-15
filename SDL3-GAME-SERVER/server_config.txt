@@ -1,0 +1,27 @@
+# Agar.io Clone Server Configuration
+# Edit values below and restart the server
+
+SERVER_NAME=Agar.io Clone Server
+SERVER_CODE=
+GAME_SERVER_PORT=8888
+MAP_WIDTH=10000
+MAP_HEIGHT=10000
+MAX_PLAYERS=50
+
+# Food percentage: How much of the map can be covered with food (0.01 = 1%, 0.5 = 50%)
+FOOD_PERCENTAGE=0.05
+FOOD_SPAWN_PER_TICK=2
+
+# Player size scaling: Percentage of smallest map dimension
+PLAYER_START_SIZE_PERCENTAGE=0.002
+PLAYER_MAX_SIZE_PERCENTAGE=0.02
+
+# Timeout settings
+PING_TIMEOUT_SECONDS=30
+INACTIVITY_TIMEOUT_SECONDS=600
+
+MOVE_SPEED_BASE=10
+
+# Growth rates: Constant growth (does not scale with player size)
+GROWTH_RATE_FOOD=0.5
+GROWTH_RATE_PLAYER=0.8

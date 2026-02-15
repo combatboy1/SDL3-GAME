@@ -1,0 +1,57 @@
+﻿  main.cpp
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\server_browser.h(56,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\server_browser.h(194,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\server_browser.h(216,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\server_browser.h(219,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\server_browser.h(254,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\server_browser.h(288,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\server_browser.h(293,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\server_browser.h(349,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\server_browser.h(410,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\server_browser.h(469,48): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(159,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(160,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(230,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(232,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(233,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(260,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(262,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(270,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(270,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(275,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(281,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(287,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(293,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(299,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(589,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(592,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(616,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(686,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(744,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(784,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(842,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(864,17): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(996,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(1013,35): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\main.cpp(1014,35): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  SDL3-GAME-CLIENT.vcxproj -> C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-GAME-CLIENT\x64\Debug\SDL3-GAME-CLIENT.exe

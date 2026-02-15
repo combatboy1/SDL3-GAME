@@ -102,10 +102,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-devel-3.4.0-VC\SDL3-3.4.0\include;C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3_ttf-devel-3.2.2-VC\SDL3_ttf-3.2.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3_ttf-devel-3.2.2-VC\SDL3_ttf-3.2.2\lib\x64;C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-devel-3.4.0-VC\SDL3-3.4.0\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>SDL3.lib;SDL3_ttf.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -116,14 +119,21 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-devel-3.4.0-VC\SDL3-3.4.0\include;C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3_ttf-devel-3.2.2-VC\SDL3_ttf-3.2.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3_ttf-devel-3.2.2-VC\SDL3_ttf-3.2.2\lib\x64;C:\Users\comba\OneDrive\Documents\SDL3-GAME\SDL3-devel-3.4.0-VC\SDL3-3.4.0\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>SDL3.lib;SDL3_ttf.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="network_common.h" />
+    <ClInclude Include="server_browser.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

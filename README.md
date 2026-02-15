@@ -1,1 +1,1 @@
-i'm testing that i can use github lol
+so how it works is that the client goes to the server-finder, which is a solid address, and pings them for a match, and the server finder looks at all the servers which have pinged the server finder with all it's details, then the server finder shows the servers you can connect to, and the player picks one, and then they can connect directly to that server.
